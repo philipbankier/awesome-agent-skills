@@ -1,0 +1,43 @@
+name: Sync Data Sources
+
+on:
+  schedule:
+    # Daily at 6 AM UTC
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Sync awesome lists
+        run: node scripts/sync-awesome-lists.js
+
+      - name: Sync MCP registry
+        run: node scripts/sync-mcp-registry.js
+
+      - name: Enrich with GitHub stars
+        run: node scripts/sync-github-stars.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "sync: update data $(date -u +%Y-%m-%d)"
+            git push
+          fi

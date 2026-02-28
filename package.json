@@ -1,0 +1,18 @@
+{
+  "name": "awesome-agent-skills",
+  "version": "1.0.0",
+  "description": "Curated directory of skills, tools, and plugins for AI coding agents",
+  "scripts": {
+    "sync": "node scripts/sync-all.js",
+    "sync:awesome-lists": "node scripts/sync-awesome-lists.js",
+    "sync:github-stars": "node scripts/sync-github-stars.js",
+    "sync:mcp-registry": "node scripts/sync-mcp-registry.js",
+    "generate": "node scripts/generate-readme.js"
+  },
+  "keywords": ["awesome", "agent-skills", "mcp", "claude-code", "cursor-rules", "ai-agents"],
+  "license": "CC0-1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/awesome-agent-skills/awesome-agent-skills"
+  }
+}
