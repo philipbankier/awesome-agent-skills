@@ -93,6 +93,14 @@ const SOURCES = [
     category: 'gemini-extension',
     platforms: ['gemini-cli'],
   },
+  {
+    id: 'kdense-claude-scientific-skills',
+    owner: 'K-Dense-AI',
+    repo: 'claude-scientific-skills',
+    file: 'README.md',
+    category: 'agent-skill',
+    platforms: ['claude-code'],
+  },
 ];
 
 function fetch(url) {
