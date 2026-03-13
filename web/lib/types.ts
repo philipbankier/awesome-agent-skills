@@ -13,6 +13,7 @@ export interface Skill {
   lastUpdated: string;
   repoUrl?: string;
   version?: string | null;
+  downloads?: number | null;
 }
 
 export interface CategoryInfo {
@@ -48,6 +49,11 @@ export const CATEGORY_META: Record<
     label: "OpenClaw Skills",
     description: "Skills for the OpenClaw multi-agent system",
     icon: "🦞",
+  },
+  "claude-code-skill": {
+    label: "Claude Code Skills",
+    description: "Skills specifically built for Claude Code",
+    icon: "🧠",
   },
   "copilot-extension": {
     label: "Copilot Extensions",

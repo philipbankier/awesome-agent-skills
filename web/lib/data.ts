@@ -10,6 +10,13 @@ function readJsonFile<T>(filename: string): T {
   return JSON.parse(raw);
 }
 
+function readJsonFileSafe<T>(filename: string): T {
+  const filePath = path.join(DATA_DIR, filename);
+  if (!fs.existsSync(filePath)) return [] as unknown as T;
+  const raw = fs.readFileSync(filePath, "utf-8");
+  return JSON.parse(raw);
+}
+
 function isActualSkill(entry: Skill): boolean {
   if (!entry.name || !entry.url) return false;
   // Filter out tutorials, videos, reddit links, community resources
@@ -46,6 +53,7 @@ function normalizeEntry(entry: Record<string, unknown>): Skill {
     lastUpdated: (entry.lastUpdated as string) || "",
     repoUrl: entry.repoUrl as string | undefined,
     version: entry.version as string | null | undefined,
+    downloads: typeof entry.downloads === "number" ? entry.downloads : null,
   };
 }
 
@@ -59,6 +67,12 @@ export function getAllSkills(): Skill[] {
   );
   const mcpRegistry = readJsonFile<Record<string, unknown>[]>(
     "mcp-registry.json"
+  );
+  const clawhubSkills = readJsonFileSafe<Record<string, unknown>[]>(
+    "clawhub-skills.json"
+  );
+  const agentskillsIo = readJsonFileSafe<Record<string, unknown>[]>(
+    "agentskills-io.json"
   );
 
   const seen = new Set<string>();
@@ -77,6 +91,24 @@ export function getAllSkills(): Skill[] {
   for (const raw of mcpRegistry) {
     const entry = normalizeEntry(raw);
     if (!isActualSkill(entry)) continue;
+    if (seen.has(entry.id)) continue;
+    seen.add(entry.id);
+    merged.push(entry);
+  }
+
+  // ClawHub skills
+  for (const raw of clawhubSkills) {
+    const entry = normalizeEntry(raw);
+    if (!entry.name) continue;
+    if (seen.has(entry.id)) continue;
+    seen.add(entry.id);
+    merged.push(entry);
+  }
+
+  // Agent Skills (agentskills.io standard)
+  for (const raw of agentskillsIo) {
+    const entry = normalizeEntry(raw);
+    if (!entry.name) continue;
     if (seen.has(entry.id)) continue;
     seen.add(entry.id);
     merged.push(entry);

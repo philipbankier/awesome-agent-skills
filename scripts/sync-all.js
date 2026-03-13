@@ -10,6 +10,8 @@ const path = require('path');
 const scripts = [
   'sync-awesome-lists.js',
   'sync-mcp-registry.js',
+  'sync-clawhub.js',
+  'sync-agentskills.js',
   'sync-github-stars.js',
 ];
 
