@@ -16,8 +16,16 @@
     "section": "Official Example Skills",
     "githubOwner": "anthropics",
     "githubRepo": "skills",
-    "stars": null,
-    "lastUpdated": "2026-03-13T03:38:49.072Z"
+    "stars": 92158,
+    "lastUpdated": "2026-03-13T03:38:49.072Z",
+    "forks": 9860,
+    "language": "Python",
+    "license": null,
+    "lastPushed": "2026-03-06T20:06:23Z",
+    "archived": false,
+    "topics": [
+      "agent-skills"
+    ]
   },
   {
     "id": "anthropics/skills/brand-guidelines",
@@ -36,8 +44,16 @@
     "section": "Official Example Skills",
     "githubOwner": "anthropics",
     "githubRepo": "skills",
-    "stars": null,
-    "lastUpdated": "2026-03-13T03:38:49.105Z"
+    "stars": 92158,
+    "lastUpdated": "2026-03-13T03:38:49.105Z",
+    "forks": 9860,
+    "language": "Python",
+    "license": null,
+    "lastPushed": "2026-03-06T20:06:23Z",
+    "archived": false,
+    "topics": [
+      "agent-skills"
+    ]
   },
   {
     "id": "anthropics/skills/canvas-design",
@@ -56,8 +72,16 @@
     "section": "Official Example Skills",
     "githubOwner": "anthropics",
     "githubRepo": "skills",
-    "stars": null,
-    "lastUpdated": "2026-03-13T03:38:49.152Z"
+    "stars": 92158,
+    "lastUpdated": "2026-03-13T03:38:49.152Z",
+    "forks": 9860,
+    "language": "Python",
+    "license": null,
+    "lastPushed": "2026-03-06T20:06:23Z",
+    "archived": false,
+    "topics": [
+      "agent-skills"
+    ]
   },
   {
     "id": "anthropics/skills/claude-api",
@@ -76,8 +100,16 @@
     "section": "Official Example Skills",
     "githubOwner": "anthropics",
     "githubRepo": "skills",
-    "stars": null,
-    "lastUpdated": "2026-03-13T03:38:49.192Z"
+    "stars": 92158,
+    "lastUpdated": "2026-03-13T03:38:49.192Z",
+    "forks": 9860,
+    "language": "Python",
+    "license": null,
+    "lastPushed": "2026-03-06T20:06:23Z",
+    "archived": false,
+    "topics": [
+      "agent-skills"
+    ]
   },
   {
     "id": "anthropics/skills/doc-coauthoring",
@@ -96,8 +128,16 @@
     "section": "Official Example Skills",
     "githubOwner": "anthropics",
     "githubRepo": "skills",
-    "stars": null,
-    "lastUpdated": "2026-03-13T03:38:49.235Z"
+    "stars": 92158,
+    "lastUpdated": "2026-03-13T03:38:49.235Z",
+    "forks": 9860,
+    "language": "Python",
+    "license": null,
+    "lastPushed": "2026-03-06T20:06:23Z",
+    "archived": false,
+    "topics": [
+      "agent-skills"
+    ]
   },
   {
     "id": "anthropics/skills/docx",
@@ -116,8 +156,16 @@
     "section": "Official Example Skills",
     "githubOwner": "anthropics",
     "githubRepo": "skills",
-    "stars": null,
-    "lastUpdated": "2026-03-13T03:38:49.292Z"
+    "stars": 92158,
+    "lastUpdated": "2026-03-13T03:38:49.292Z",
+    "forks": 9860,
+    "language": "Python",
+    "license": null,
+    "lastPushed": "2026-03-06T20:06:23Z",
+    "archived": false,
+    "topics": [
+      "agent-skills"
+    ]
   },
   {
     "id": "anthropics/skills/frontend-design",
@@ -136,8 +184,16 @@
     "section": "Official Example Skills",
     "githubOwner": "anthropics",
     "githubRepo": "skills",
-    "stars": null,
-    "lastUpdated": "2026-03-13T03:38:49.332Z"
+    "stars": 92158,
+    "lastUpdated": "2026-03-13T03:38:49.332Z",
+    "forks": 9860,
+    "language": "Python",
+    "license": null,
+    "lastPushed": "2026-03-06T20:06:23Z",
+    "archived": false,
+    "topics": [
+      "agent-skills"
+    ]
   },
   {
     "id": "anthropics/skills/internal-comms",
@@ -156,8 +212,16 @@
     "section": "Official Example Skills",
     "githubOwner": "anthropics",
     "githubRepo": "skills",
-    "stars": null,
-    "lastUpdated": "2026-03-13T03:38:49.369Z"
+    "stars": 92158,
+    "lastUpdated": "2026-03-13T03:38:49.369Z",
+    "forks": 9860,
+    "language": "Python",
+    "license": null,
+    "lastPushed": "2026-03-06T20:06:23Z",
+    "archived": false,
+    "topics": [
+      "agent-skills"
+    ]
   },
   {
     "id": "anthropics/skills/mcp-builder",
@@ -176,8 +240,16 @@
     "section": "Official Example Skills",
     "githubOwner": "anthropics",
     "githubRepo": "skills",
-    "stars": null,
-    "lastUpdated": "2026-03-13T03:38:49.414Z"
+    "stars": 92158,
+    "lastUpdated": "2026-03-13T03:38:49.414Z",
+    "forks": 9860,
+    "language": "Python",
+    "license": null,
+    "lastPushed": "2026-03-06T20:06:23Z",
+    "archived": false,
+    "topics": [
+      "agent-skills"
+    ]
   },
   {
     "id": "anthropics/skills/pdf",
@@ -196,8 +268,16 @@
     "section": "Official Example Skills",
     "githubOwner": "anthropics",
     "githubRepo": "skills",
-    "stars": null,
-    "lastUpdated": "2026-03-13T03:38:49.465Z"
+    "stars": 92158,
+    "lastUpdated": "2026-03-13T03:38:49.465Z",
+    "forks": 9860,
+    "language": "Python",
+    "license": null,
+    "lastPushed": "2026-03-06T20:06:23Z",
+    "archived": false,
+    "topics": [
+      "agent-skills"
+    ]
   },
   {
     "id": "anthropics/skills/pptx",
@@ -216,8 +296,16 @@
     "section": "Official Example Skills",
     "githubOwner": "anthropics",
     "githubRepo": "skills",
-    "stars": null,
-    "lastUpdated": "2026-03-13T03:38:49.509Z"
+    "stars": 92158,
+    "lastUpdated": "2026-03-13T03:38:49.509Z",
+    "forks": 9860,
+    "language": "Python",
+    "license": null,
+    "lastPushed": "2026-03-06T20:06:23Z",
+    "archived": false,
+    "topics": [
+      "agent-skills"
+    ]
   },
   {
     "id": "anthropics/skills/skill-creator",
@@ -236,8 +324,16 @@
     "section": "Official Example Skills",
     "githubOwner": "anthropics",
     "githubRepo": "skills",
-    "stars": null,
-    "lastUpdated": "2026-03-13T03:38:49.569Z"
+    "stars": 92158,
+    "lastUpdated": "2026-03-13T03:38:49.569Z",
+    "forks": 9860,
+    "language": "Python",
+    "license": null,
+    "lastPushed": "2026-03-06T20:06:23Z",
+    "archived": false,
+    "topics": [
+      "agent-skills"
+    ]
   },
   {
     "id": "anthropics/skills/slack-gif-creator",
@@ -256,8 +352,16 @@
     "section": "Official Example Skills",
     "githubOwner": "anthropics",
     "githubRepo": "skills",
-    "stars": null,
-    "lastUpdated": "2026-03-13T03:38:49.615Z"
+    "stars": 92158,
+    "lastUpdated": "2026-03-13T03:38:49.615Z",
+    "forks": 9860,
+    "language": "Python",
+    "license": null,
+    "lastPushed": "2026-03-06T20:06:23Z",
+    "archived": false,
+    "topics": [
+      "agent-skills"
+    ]
   },
   {
     "id": "anthropics/skills/theme-factory",
@@ -276,8 +380,16 @@
     "section": "Official Example Skills",
     "githubOwner": "anthropics",
     "githubRepo": "skills",
-    "stars": null,
-    "lastUpdated": "2026-03-13T03:38:49.655Z"
+    "stars": 92158,
+    "lastUpdated": "2026-03-13T03:38:49.655Z",
+    "forks": 9860,
+    "language": "Python",
+    "license": null,
+    "lastPushed": "2026-03-06T20:06:23Z",
+    "archived": false,
+    "topics": [
+      "agent-skills"
+    ]
   },
   {
     "id": "anthropics/skills/web-artifacts-builder",
@@ -296,8 +408,16 @@
     "section": "Official Example Skills",
     "githubOwner": "anthropics",
     "githubRepo": "skills",
-    "stars": null,
-    "lastUpdated": "2026-03-13T03:38:49.695Z"
+    "stars": 92158,
+    "lastUpdated": "2026-03-13T03:38:49.695Z",
+    "forks": 9860,
+    "language": "Python",
+    "license": null,
+    "lastPushed": "2026-03-06T20:06:23Z",
+    "archived": false,
+    "topics": [
+      "agent-skills"
+    ]
   },
   {
     "id": "anthropics/skills/webapp-testing",
@@ -316,8 +436,16 @@
     "section": "Official Example Skills",
     "githubOwner": "anthropics",
     "githubRepo": "skills",
-    "stars": null,
-    "lastUpdated": "2026-03-13T03:38:49.740Z"
+    "stars": 92158,
+    "lastUpdated": "2026-03-13T03:38:49.740Z",
+    "forks": 9860,
+    "language": "Python",
+    "license": null,
+    "lastPushed": "2026-03-06T20:06:23Z",
+    "archived": false,
+    "topics": [
+      "agent-skills"
+    ]
   },
   {
     "id": "anthropics/skills/xlsx",
@@ -336,7 +464,15 @@
     "section": "Official Example Skills",
     "githubOwner": "anthropics",
     "githubRepo": "skills",
-    "stars": null,
-    "lastUpdated": "2026-03-13T03:38:49.780Z"
+    "stars": 92158,
+    "lastUpdated": "2026-03-13T03:38:49.780Z",
+    "forks": 9860,
+    "language": "Python",
+    "license": null,
+    "lastPushed": "2026-03-06T20:06:23Z",
+    "archived": false,
+    "topics": [
+      "agent-skills"
+    ]
   }
 ]
