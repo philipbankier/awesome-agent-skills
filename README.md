@@ -1,6 +1,6 @@
 # Awesome Agent Skills [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated directory of skills, tools, and plugins for AI coding agents — across every platform.
+> A curated directory of skills, tools, and plugins for AI coding agents, across every platform.
 
 Unlike platform-specific lists, this directory covers **all** agent skill ecosystems in one place: Agent Skills (SKILL.md), MCP servers, Cursor rules, Windsurf rules, Gemini CLI extensions, Copilot extensions, OpenClaw skills, and more.
 
