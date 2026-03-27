@@ -4,7 +4,7 @@
 
 Unlike platform-specific lists, this directory covers **all** agent skill ecosystems in one place: Agent Skills (SKILL.md), MCP servers, Cursor rules, Windsurf rules, Gemini CLI extensions, Copilot extensions, OpenClaw skills, and more.
 
-**[Website](https://awesomeagentskills.dev)** · **[Submit a Skill](#contributing)** · **[Sync Status](#data-sources--sync)**
+**[Website](https://awesomeagentskills.dev)** � **[Submit a Skill](#contributing)** � **[Sync Status](#data-sources--sync)**
 
 ---
 
@@ -42,6 +42,7 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 ### Domain-Specific
 
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Ready-to-use skills for research, science, engineering, analysis, finance and writing. ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills)
+- [Wowo51/Sym](https://github.com/Wowo51/Sym) - Symbolic computation framework for math and C# analysis, including Agent Skills (SKILL.md) for SymCLI. ![GitHub stars](https://img.shields.io/github/stars/Wowo51/Sym)
 
 ### Collections
 
@@ -121,7 +122,7 @@ Extensions and skills for [Google Gemini CLI](https://github.com/google-gemini/g
 
 ## GitHub Copilot Extensions
 
-Extensions for [GitHub Copilot](https://github.com/features/copilot) — agents, instructions, hooks, skills, plugins.
+Extensions for [GitHub Copilot](https://github.com/features/copilot) � agents, instructions, hooks, skills, plugins.
 
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - OFFICIAL GitHub repo. ![GitHub stars](https://img.shields.io/github/stars/github/awesome-copilot)
 - [GitHub Marketplace (Copilot Apps)](https://github.com/marketplace?type=apps&copilot_app=true) - Official Copilot extension marketplace.
@@ -270,3 +271,4 @@ Any tool, plugin, extension, rule set, or capability that enhances an AI coding 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the contributors have waived all copyright and related rights to this work.
+
