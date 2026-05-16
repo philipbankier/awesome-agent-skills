@@ -51,6 +51,7 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 - [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - Claude Code workflow-focused skills. ![GitHub stars](https://img.shields.io/github/stars/travisvn/awesome-claude-skills)
 - [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - Skills + tools + tutorials for Claude, Codex, Antigravity, Copilot. ![GitHub stars](https://img.shields.io/github/stars/heilcheng/awesome-agent-skills)
 - [skillmatic-ai/awesome-agent-skills](https://github.com/skillmatic-ai/awesome-agent-skills) - Architecture-focused skill resource. ![GitHub stars](https://img.shields.io/github/stars/skillmatic-ai/awesome-agent-skills)
+- [Sequenzy/skills](https://github.com/Sequenzy/skills) - Agent skills for Sequenzy email marketing and transactional/product email workflows. ![GitHub stars](https://img.shields.io/github/stars/Sequenzy/skills)
 - [rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) - 135 agents, 35 skills, 42 commands, 120 plugins, 19 hooks. ![GitHub stars](https://img.shields.io/github/stars/rohitg00/awesome-claude-code-toolkit)
 
 ### Claude Code Ecosystem
