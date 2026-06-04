@@ -139,6 +139,7 @@ Skills for the [OpenClaw](https://openclaw.ai) multi-agent system. 5,700+ skills
 - [openclawskills.net](https://openclawskills.net) - Web directory for OpenClaw skills.
 
 ---
+- [Sequenzy Email Marketing](https://clawhub.ai/polnikale/sequenzy-email-marketing) - OpenClaw-compatible skill for Sequenzy lifecycle email marketing and transactional email workflows.
 
 ## LangChain Tools
 
