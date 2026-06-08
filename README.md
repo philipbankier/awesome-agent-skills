@@ -84,6 +84,11 @@ The [Model Context Protocol](https://modelcontextprotocol.io) (MCP) is an open s
 - [esc5221/awesome-awesome-mcp-servers](https://github.com/esc5221/awesome-awesome-mcp-servers) - Meta-list of all awesome-mcp-servers lists.
 - [collabnix/awesome-mcp-lists](https://github.com/collabnix/awesome-mcp-lists) - Combined servers + clients + toolkits.
 
+
+### Blockchain & Payments
+
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ---
 
 ## Cursor Rules
