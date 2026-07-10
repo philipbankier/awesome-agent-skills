@@ -1,5 +1,5 @@
 {
-  "lastSync": "2026-07-08T08:01:19.838Z",
+  "lastSync": "2026-07-10T08:53:16.875Z",
   "sources": [
     "punkpeye-awesome-mcp-servers",
     "composio-awesome-claude-skills",
@@ -13,14 +13,14 @@
     "awesome-gemini-cli",
     "kdense-claude-scientific-skills"
   ],
-  "totalEntries": 3132,
+  "totalEntries": 3134,
   "byCategory": {
     "mcp-server": 2855,
     "agent-skill": 153,
     "cursor-rule": 6,
     "openclaw-skill": 3,
     "copilot-extension": 1,
-    "gemini-extension": 114
+    "gemini-extension": 116
   },
   "bySource": {
     "punkpeye-awesome-mcp-servers": 2850,
@@ -32,6 +32,6 @@
     "voltagent-awesome-openclaw-skills": 3,
     "antigravity-awesome-skills": 5,
     "github-awesome-copilot": 1,
-    "awesome-gemini-cli": 114
+    "awesome-gemini-cli": 116
   }
 }
