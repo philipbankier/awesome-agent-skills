@@ -42,7 +42,7 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 ### Domain-Specific
 
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Ready-to-use skills for research, science, engineering, analysis, finance and writing. ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills)
-- [UIZZE anti-ui-slop](https://github.com/samuelbushi/uizze/tree/main/skills/anti-ui-slop) - Free UI finish gate grounded in 800,000+ real web and iOS screens at [uizze.com](https://uizze.com). ![GitHub stars](https://img.shields.io/github/stars/samuelbushi/uizze)
+- [UIZZE anti-ui-slop](https://github.com/uizze/uizze/tree/main/skills/anti-ui-slop) - Free UI finish gate grounded in 800,000+ real web and iOS screens at [uizze.com](https://uizze.com). ![GitHub stars](https://img.shields.io/github/stars/uizze/uizze)
 
 ### Collections
 
