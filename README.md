@@ -50,6 +50,7 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - 380+ skills for Claude Code, Codex, Antigravity, Gemini CLI, Cursor. ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-agent-skills)
 - [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - Claude Code workflow-focused skills. ![GitHub stars](https://img.shields.io/github/stars/travisvn/awesome-claude-skills)
 - [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - Skills + tools + tutorials for Claude, Codex, Antigravity, Copilot. ![GitHub stars](https://img.shields.io/github/stars/heilcheng/awesome-agent-skills)
+- [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) - 67 skills for code quality, design, marketing, agent workflows, and mobile shipping. ![GitHub stars](https://img.shields.io/github/stars/JasonColapietro/suede-creator-skills)
 - [skillmatic-ai/awesome-agent-skills](https://github.com/skillmatic-ai/awesome-agent-skills) - Architecture-focused skill resource. ![GitHub stars](https://img.shields.io/github/stars/skillmatic-ai/awesome-agent-skills)
 - [rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) - 135 agents, 35 skills, 42 commands, 120 plugins, 19 hooks. ![GitHub stars](https://img.shields.io/github/stars/rohitg00/awesome-claude-code-toolkit)
 
