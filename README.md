@@ -59,10 +59,11 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 - [jqueryscript/awesome-claude-code](https://github.com/jqueryscript/awesome-claude-code) - IDE integrations, frameworks, resources. ![GitHub stars](https://img.shields.io/github/stars/jqueryscript/awesome-claude-code)
 
 ---
+## MCP Servers
 
+### Agent task markets
 
 - [TaskMarket MCP / skill](https://github.com/GabrielSalem-creator/taskmarket-mcp) - Discover and submit USDC agent tasks on [taskmarket.dev](https://taskmarket.dev/) via CLI/MCP (list, get, submit). ![GitHub stars](https://img.shields.io/github/stars/GabrielSalem-creator/taskmarket-mcp)
-`n## MCP Servers
 
 The [Model Context Protocol](https://modelcontextprotocol.io) (MCP) is an open standard for connecting AI models to data sources and tools. 17,000+ servers across directories.
 
