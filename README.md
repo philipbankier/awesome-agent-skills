@@ -215,7 +215,7 @@ Command-line tools for installing and managing agent skills.
 - [agent-skills-cli](https://github.com/Karanjot786/agent-skills-cli) - Universal CLI. Access 40,000+ skills from SkillsMP. Syncs to Cursor, Claude Code, Copilot, Codex, Antigravity.
 - [Smithery CLI](https://github.com/smithery-ai/cli) - Install, manage, and develop MCP servers and skills.
 - `npx antigravity-awesome-skills` - One-command install for 900+ skills from [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills).
-- [rolecraft](https://github.com/rolecraft-sh/rolecraft) - Zero-dependency CLI to install AI agent skills from local folders or GitHub repos. Works with opencode, claude-code, cursor, and all spec-compliant agents. ![GitHub stars](https://img.shields.io/github/stars/sametcelikbicak/rolecraft)
+- [rolecraft](https://github.com/rolecraft-sh/rolecraft) - Zero-dependency CLI to install AI agent skills from local folders or GitHub repos. Works with opencode, claude-code, cursor, and all spec-compliant agents. ![GitHub stars](https://img.shields.io/github/stars/rolecraft-sh/rolecraft)
 
 ---
 
