@@ -58,6 +58,12 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - Comprehensive Claude Code ecosystem: skills, hooks, slash-commands, plugins. ![GitHub stars](https://img.shields.io/github/stars/hesreallyhim/awesome-claude-code)
 - [jqueryscript/awesome-claude-code](https://github.com/jqueryscript/awesome-claude-code) - IDE integrations, frameworks, resources. ![GitHub stars](https://img.shields.io/github/stars/jqueryscript/awesome-claude-code)
 
+### Development & Testing
+
+- [sametcelikbicak/coverage-guard](https://github.com/sametcelikbicak/coverage-guard) - Enforces 100% test coverage for JS/TS projects. Works with Vitest, Jest, react-scripts, and more. Compatible with opencode, Claude Code, Cursor, Windsurf, and GitHub Copilot. ![GitHub stars](https://img.shields.io/github/stars/sametcelikbicak/coverage-guard)
+- [sametcelikbicak/flaky-test-detector](https://github.com/sametcelikbicak/flaky-test-detector) - Detects, analyzes, and eliminates flaky tests across any test runner. Compatible with opencode, Claude Code, Cursor, Windsurf, and GitHub Copilot. ![GitHub stars](https://img.shields.io/github/stars/sametcelikbicak/flaky-test-detector)
+- [sametcelikbicak/task-decomposer](https://github.com/sametcelikbicak/task-decomposer) - Decomposes complex requests into structured, AI-friendly task sequences. Compatible with opencode, Claude Code, Cursor, Windsurf, and GitHub Copilot. ![GitHub stars](https://img.shields.io/github/stars/sametcelikbicak/task-decomposer)
+
 ---
 
 ## MCP Servers
@@ -209,6 +215,7 @@ Command-line tools for installing and managing agent skills.
 - [agent-skills-cli](https://github.com/Karanjot786/agent-skills-cli) - Universal CLI. Access 40,000+ skills from SkillsMP. Syncs to Cursor, Claude Code, Copilot, Codex, Antigravity.
 - [Smithery CLI](https://github.com/smithery-ai/cli) - Install, manage, and develop MCP servers and skills.
 - `npx antigravity-awesome-skills` - One-command install for 900+ skills from [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills).
+- [rolecraft](https://github.com/rolecraft-sh/rolecraft) - Zero-dependency CLI to install AI agent skills from local folders or GitHub repos. Works with opencode, claude-code, cursor, and all spec-compliant agents. ![GitHub stars](https://img.shields.io/github/stars/rolecraft-sh/rolecraft)
 
 ---
 
