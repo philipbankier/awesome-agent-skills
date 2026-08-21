@@ -42,6 +42,7 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 ### Domain-Specific
 
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Ready-to-use skills for research, science, engineering, analysis, finance and writing. ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills)
+- [EmblemCompany/Agent-skills](https://github.com/EmblemCompany/Agent-skills/tree/main/skills/emblem-ai-agent-wallet) - Crypto wallet management across 7 blockchains via EmblemAI. Swaps, transfers, portfolio analysis. ![GitHub stars](https://img.shields.io/github/stars/EmblemCompany/Agent-skills)
 
 ### Collections
 
