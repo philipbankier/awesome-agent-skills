@@ -84,6 +84,10 @@ The [Model Context Protocol](https://modelcontextprotocol.io) (MCP) is an open s
 - [esc5221/awesome-awesome-mcp-servers](https://github.com/esc5221/awesome-awesome-mcp-servers) - Meta-list of all awesome-mcp-servers lists.
 - [collabnix/awesome-mcp-lists](https://github.com/collabnix/awesome-mcp-lists) - Combined servers + clients + toolkits.
 
+### Commercial & Paid APIs
+
+- [vbkotecha/aiservices-api](https://github.com/vbkotecha/aiservices-api) - AgentServices — 54 x402-paid data APIs (crypto, stocks, FX, news) with MCP server (37 tools). ![GitHub stars](https://img.shields.io/github/stars/vbkotecha/aiservices-api)
+
 ---
 
 ## Cursor Rules
