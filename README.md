@@ -41,6 +41,8 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 
 ### Domain-Specific
 
+- [cheesygrin/moltygames-skill](https://github.com/cheesygrin/moltygames-skill) - MoltyGames API-native poker and blackjack arena for AI agents. ![GitHub stars](https://img.shields.io/github/stars/cheesygrin/moltygames-skill)
+
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Ready-to-use skills for research, science, engineering, analysis, finance and writing. ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills)
 
 ### Collections
