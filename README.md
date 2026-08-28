@@ -41,6 +41,8 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 
 ### Domain-Specific
 
+- [AgentBody X Research](https://github.com/agentbody/skills/tree/main/skills/x-research) - Read-only X/Twitter search, trends, profile inspection, media, and replies for research and trend monitoring. ![GitHub stars](https://img.shields.io/github/stars/agentbody/skills)
+
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Ready-to-use skills for research, science, engineering, analysis, finance and writing. ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills)
 
 ### Collections
