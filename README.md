@@ -68,6 +68,7 @@ The [Model Context Protocol](https://modelcontextprotocol.io) (MCP) is an open s
 
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Official reference MCP server implementations. ![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers)
 - [Official MCP Registry](https://registry.modelcontextprotocol.io) - Authoritative registry with open API spec. ![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/registry)
+- [SandBase CLI](https://github.com/sandbaseai/cli) - Provider-agnostic CLI and local MCP bridge connecting 25 AI clients to 2,000+ models/APIs. ![GitHub stars](https://img.shields.io/github/stars/sandbaseai/cli)
 
 ### Awesome Lists
 
