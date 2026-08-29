@@ -42,6 +42,7 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 ### Domain-Specific
 
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Ready-to-use skills for research, science, engineering, analysis, finance and writing. ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills)
+- [263311487-ux/falsify](https://github.com/263311487-ux/falsify) - Falsification-first scientific thinking protocol: 5-stage loop that makes agents separate falsifiable claims from untestable ones and stop overconfident answers. ![GitHub stars](https://img.shields.io/github/stars/263311487-ux/falsify)
 
 ### Collections
 
