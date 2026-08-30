@@ -64,6 +64,10 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 
 The [Model Context Protocol](https://modelcontextprotocol.io) (MCP) is an open standard for connecting AI models to data sources and tools. 17,000+ servers across directories.
 
+### Runtime & Infrastructure
+
+- [sandbaseai/sandbase-harness](https://github.com/sandbaseai/sandbase-harness) - Local-first, self-hosted AI-agent runtime and MCP bridge with persistent sessions, governed tool access, approvals, credentials, audit/replay, and selectable execution backends. ![GitHub stars](https://img.shields.io/github/stars/sandbaseai/sandbase-harness)
+
 ### Official
 
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Official reference MCP server implementations. ![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers)
