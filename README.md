@@ -41,6 +41,7 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 
 ### Domain-Specific
 
+- [anycloud-sh/anycloud-skills](https://github.com/anycloud-sh/anycloud-skills) - Run AI jobs across cloud GPU providers from Claude Code, Codex, and ChatGPT. ![GitHub stars](https://img.shields.io/github/stars/anycloud-sh/anycloud-skills)
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Ready-to-use skills for research, science, engineering, analysis, finance and writing. ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills)
 
 ### Collections
