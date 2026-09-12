@@ -42,6 +42,7 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 ### Domain-Specific
 
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Ready-to-use skills for research, science, engineering, analysis, finance and writing. ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills)
+- [zambodotdev/zambo-mcp](https://github.com/zambodotdev/zambo-mcp) - Give your AI hands: 120 native MCP tools across 17 live products over one zero-auth endpoint. Install with `npx skills add zambodotdev/zambo-mcp`. ![GitHub stars](https://img.shields.io/github/stars/zambodotdev/zambo-mcp)
 
 ### Collections
 
