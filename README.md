@@ -4,7 +4,7 @@
 
 Unlike platform-specific lists, this directory covers **all** agent skill ecosystems in one place: Agent Skills (SKILL.md), MCP servers, Cursor rules, Windsurf rules, Gemini CLI extensions, Copilot extensions, OpenClaw skills, and more.
 
-**[Website](https://awesomeagentskills.dev)** · **[Submit a Skill](#contributing)** · **[Sync Status](#data-sources--sync)**
+**[Website](https://awesomeagentskills.dev)** Â· **[Submit a Skill](#contributing)** Â· **[Sync Status](#data-sources--sync)**
 
 ---
 
@@ -121,7 +121,7 @@ Extensions and skills for [Google Gemini CLI](https://github.com/google-gemini/g
 
 ## GitHub Copilot Extensions
 
-Extensions for [GitHub Copilot](https://github.com/features/copilot) — agents, instructions, hooks, skills, plugins.
+Extensions for [GitHub Copilot](https://github.com/features/copilot) â agents, instructions, hooks, skills, plugins.
 
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - OFFICIAL GitHub repo. ![GitHub stars](https://img.shields.io/github/stars/github/awesome-copilot)
 - [GitHub Marketplace (Copilot Apps)](https://github.com/marketplace?type=apps&copilot_app=true) - Official Copilot extension marketplace.
@@ -195,7 +195,7 @@ Web-based platforms for discovering and installing agent skills and tools.
 | [Smithery](https://smithery.ai) | MCP marketplace + CLI | 4,000+ | [Partial](https://github.com/smithery-ai) |
 | [cursor.directory](https://cursor.directory) | Cursor + Windsurf rules | 1,000+ | [Yes](https://github.com/pontusab/cursor.directory) |
 | [Composio](https://composio.dev) | Multi-framework integrations | 1,000+ | [Yes](https://github.com/ComposioHQ/composio) |
-| [HOL Plugins](https://hol.org/plugins) | Cross-ecosystem AI plugins + MCP servers | 328 | [Yes](https://github.com/hashgraph-online/points-portal) |
+| [HOL Plugins](https://hol.org/plugins) | Cross-ecosystem AI plugins + MCP servers | 350+ | [Yes](https://github.com/hashgraph-online/points-portal) |
 | [MCPServers.org](https://mcpservers.org) | Curated MCP collection | Growing | No |
 | [Gemini Extension Gallery](https://geminicli.com/extensions/) | Gemini CLI extensions | Growing | No |
 | [GitHub Copilot Marketplace](https://github.com/marketplace?type=apps&copilot_app=true) | Copilot extensions | ~30 | No |
