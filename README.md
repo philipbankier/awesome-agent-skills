@@ -43,6 +43,8 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Ready-to-use skills for research, science, engineering, analysis, finance and writing. ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills)
 
+- [magichourhq/skills](https://github.com/magichourhq/skills) - Official image, video and audio skills via Magic Hour MCP or API; account and generation credits required. ![GitHub stars](https://img.shields.io/github/stars/magichourhq/skills)
+
 ### Collections
 
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - Largest Claude skills list. ![GitHub stars](https://img.shields.io/github/stars/ComposioHQ/awesome-claude-skills)
