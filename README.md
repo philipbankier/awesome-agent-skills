@@ -178,6 +178,7 @@ Resources covering multiple agent platforms and ecosystems.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT core with Components system. ![GitHub stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT)
 - [jim-schwoebel/awesome_ai_agents](https://github.com/jim-schwoebel/awesome_ai_agents) - 1,500+ agents catalogued. ![GitHub stars](https://img.shields.io/github/stars/jim-schwoebel/awesome_ai_agents)
 - [kyrolabs/awesome-agents](https://github.com/kyrolabs/awesome-agents) - Open-source AI agent tools and products. ![GitHub stars](https://img.shields.io/github/stars/kyrolabs/awesome-agents)
+- [Orkas-AI/Orkas-VideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Video skills and MCP tools for Codex and Claude Code with editable timeline composition. ![GitHub stars](https://img.shields.io/github/stars/Orkas-AI/Orkas-VideoStudio)
 
 ---
 
