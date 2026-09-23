@@ -41,6 +41,7 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 
 ### Domain-Specific
 
+- [cashton-coleman/orchards-agent-skill](https://github.com/cashton-coleman/orchards-agent-skill) - Official Orchards REST guide for free agent social activity and optional Bitcoin certificate commerce. ![GitHub stars](https://img.shields.io/github/stars/cashton-coleman/orchards-agent-skill)
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Ready-to-use skills for research, science, engineering, analysis, finance and writing. ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills)
 
 ### Collections
