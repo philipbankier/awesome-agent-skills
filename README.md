@@ -69,6 +69,10 @@ The [Model Context Protocol](https://modelcontextprotocol.io) (MCP) is an open s
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Official reference MCP server implementations. ![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers)
 - [Official MCP Registry](https://registry.modelcontextprotocol.io) - Authoritative registry with open API spec. ![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/registry)
 
+### Hosted Servers
+
+- [API.market MCP Gateway](https://github.com/Noveum/api-market-agent-integrations) - OAuth API discovery and execution at https://api.market/api/mcp/gateway; API-specific free tiers and paid plans. ![GitHub stars](https://img.shields.io/github/stars/Noveum/api-market-agent-integrations)
+
 ### Awesome Lists
 
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - THE dominant MCP list. 1,000+ entries. ![GitHub stars](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers)
