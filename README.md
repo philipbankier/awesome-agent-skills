@@ -42,6 +42,7 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 ### Domain-Specific
 
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Ready-to-use skills for research, science, engineering, analysis, finance and writing. ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills)
+- [helenanova/sevensignal](https://github.com/helenanova/sevensignal) - Agent skills that check BTS ticket-sale posts against a deterministic official-domain allowlist to catch resale and deposit scams (English/Korean). ![GitHub stars](https://img.shields.io/github/stars/helenanova/sevensignal)
 
 ### Collections
 
