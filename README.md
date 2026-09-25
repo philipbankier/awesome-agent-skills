@@ -52,6 +52,7 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 - [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - Skills + tools + tutorials for Claude, Codex, Antigravity, Copilot. ![GitHub stars](https://img.shields.io/github/stars/heilcheng/awesome-agent-skills)
 - [skillmatic-ai/awesome-agent-skills](https://github.com/skillmatic-ai/awesome-agent-skills) - Architecture-focused skill resource. ![GitHub stars](https://img.shields.io/github/stars/skillmatic-ai/awesome-agent-skills)
 - [rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) - 135 agents, 35 skills, 42 commands, 120 plugins, 19 hooks. ![GitHub stars](https://img.shields.io/github/stars/rohitg00/awesome-claude-code-toolkit)
+- [mblode/agent-skills](https://github.com/mblode/agent-skills) - Nobody ships AI slop on purpose. These skills make sure you don't. UI audits, typography, docs, PR review, and releases. `npx skills add mblode/agent-skills`
 
 ### Claude Code Ecosystem
 
