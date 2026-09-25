@@ -42,6 +42,7 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 ### Domain-Specific
 
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Ready-to-use skills for research, science, engineering, analysis, finance and writing. ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills)
+- [plasma-ai/wiki](https://github.com/plasma-ai/wiki/tree/main/wiki/skills/wiki) - Build and maintain indexed Markdown knowledge bases for agents. ![GitHub stars](https://img.shields.io/github/stars/plasma-ai/wiki)
 
 ### Collections
 
