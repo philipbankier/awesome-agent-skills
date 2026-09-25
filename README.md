@@ -42,6 +42,8 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 ### Domain-Specific
 
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Ready-to-use skills for research, science, engineering, analysis, finance and writing. ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills)
+- [nowork-studio/toprank](https://github.com/nowork-studio/toprank) - SEO & Google Ads skills for Claude Code. Meta tags, schema markup, keyword bids, and CMS content pushes. ![GitHub stars](https://img.shields.io/github/stars/nowork-studio/toprank)
+
 
 ### Collections
 
