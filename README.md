@@ -79,6 +79,11 @@ The [Model Context Protocol](https://modelcontextprotocol.io) (MCP) is an open s
 - [punkpeye/awesome-mcp-devtools](https://github.com/punkpeye/awesome-mcp-devtools) - MCP development tools, SDKs, testing. ![GitHub stars](https://img.shields.io/github/stars/punkpeye/awesome-mcp-devtools)
 - [toolsdk-ai/toolsdk-mcp-registry](https://github.com/toolsdk-ai/toolsdk-mcp-registry) - Machine-readable JSON registry with OAuth2.1. ![GitHub stars](https://img.shields.io/github/stars/toolsdk-ai/toolsdk-mcp-registry)
 
+
+### Notable MCP Servers
+
+- [vbkotecha/agentservices-api](https://github.com/vbkotecha/agentservices-api) - 54 x402-enabled MCP tools for crypto, financial, and market data. Built-in payment routing. ![GitHub stars](https://img.shields.io/github/stars/vbkotecha/agentservices-api)
+
 ### Meta
 
 - [esc5221/awesome-awesome-mcp-servers](https://github.com/esc5221/awesome-awesome-mcp-servers) - Meta-list of all awesome-mcp-servers lists.
