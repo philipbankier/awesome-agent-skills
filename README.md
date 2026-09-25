@@ -42,6 +42,7 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 ### Domain-Specific
 
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Ready-to-use skills for research, science, engineering, analysis, finance and writing. ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills)
+- [matdev83/golang-curated-agent-skills](https://github.com/matdev83/golang-curated-agent-skills) - 44 portable Go skills for concurrency, context, testing, benchmarks, and idiomatic style. ![GitHub stars](https://img.shields.io/github/stars/matdev83/golang-curated-agent-skills)
 
 ### Collections
 
