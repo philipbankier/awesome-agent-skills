@@ -41,6 +41,7 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 
 ### Domain-Specific
 
+- [jobyap/agent-skills](https://github.com/jobyap/agent-skills) - Search job postings from companies' official careers sites — salaries, locations, and community discussion on every job. ![GitHub stars](https://img.shields.io/github/stars/jobyap/agent-skills)
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Ready-to-use skills for research, science, engineering, analysis, finance and writing. ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills)
 
 ### Collections
