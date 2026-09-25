@@ -207,6 +207,7 @@ Web-based platforms for discovering and installing agent skills and tools.
 Command-line tools for installing and managing agent skills.
 
 - [agent-skills-cli](https://github.com/Karanjot786/agent-skills-cli) - Universal CLI. Access 40,000+ skills from SkillsMP. Syncs to Cursor, Claude Code, Copilot, Codex, Antigravity.
+- [AIPM](https://www.aipm-registry.com/) - Open-source registry and CLI for versioned AI skills across Codex, Claude Code, and Cursor. ![GitHub stars](https://img.shields.io/github/stars/abhisri2090/aipm)
 - [Smithery CLI](https://github.com/smithery-ai/cli) - Install, manage, and develop MCP servers and skills.
 - `npx antigravity-awesome-skills` - One-command install for 900+ skills from [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills).
 
