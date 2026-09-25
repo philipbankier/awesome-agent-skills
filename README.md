@@ -68,6 +68,7 @@ The [Model Context Protocol](https://modelcontextprotocol.io) (MCP) is an open s
 
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Official reference MCP server implementations. ![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers)
 - [Official MCP Registry](https://registry.modelcontextprotocol.io) - Authoritative registry with open API spec. ![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/registry)
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ### Awesome Lists
 
