@@ -188,6 +188,7 @@ Web-based platforms for discovering and installing agent skills and tools.
 | Platform | Focus | Size | Open Source |
 |----------|-------|------|-------------|
 | [SkillsMP](https://skillsmp.com) | Agent Skills marketplace | 66,500+ | No |
+| [Skills宝](https://skilery.com) | Chinese AI Skills marketplace | Growing | No |
 | [MCP.so](https://mcp.so) | MCP server directory | 17,900+ | [Yes](https://github.com/chatmcp/mcpso) |
 | [Glama](https://glama.ai/mcp/servers) | Hosted MCP servers | 17,800+ | No |
 | [PulseMCP](https://www.pulsemcp.com/servers) | MCP directory (Steering Committee) | 8,600+ | No |
