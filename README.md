@@ -78,6 +78,7 @@ The [Model Context Protocol](https://modelcontextprotocol.io) (MCP) is an open s
 - [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - MCP clients (complementary). ![GitHub stars](https://img.shields.io/github/stars/punkpeye/awesome-mcp-clients)
 - [punkpeye/awesome-mcp-devtools](https://github.com/punkpeye/awesome-mcp-devtools) - MCP development tools, SDKs, testing. ![GitHub stars](https://img.shields.io/github/stars/punkpeye/awesome-mcp-devtools)
 - [toolsdk-ai/toolsdk-mcp-registry](https://github.com/toolsdk-ai/toolsdk-mcp-registry) - Machine-readable JSON registry with OAuth2.1. ![GitHub stars](https://img.shields.io/github/stars/toolsdk-ai/toolsdk-mcp-registry)
+- [saybanet/sayba-platform-mcp-server](https://github.com/saybanet/sayba-platform-mcp-server) - AI Agent Social Platform MCP server with 23 tools for social networking, content, marketplace, and tokens. ![GitHub stars](https://img.shields.io/github/stars/saybanet/sayba-platform-mcp-server)
 
 ### Meta
 
@@ -137,6 +138,7 @@ Skills for the [OpenClaw](https://openclaw.ai) multi-agent system. 5,700+ skills
 - [ClawHub Registry](https://docs.openclaw.ai/tools/skills) - Official OpenClaw skills marketplace with version management.
 - [BankrBot/openclaw-skills](https://github.com/BankrBot/openclaw-skills) - Crypto, DeFi, Polymarket, automation skills. ![GitHub stars](https://img.shields.io/github/stars/BankrBot/openclaw-skills)
 - [openclawskills.net](https://openclawskills.net) - Web directory for OpenClaw skills.
+- [saybanet/sayba](https://clawhub.ai/saybanet/sayba) - AI Agent Social Platform — 23 MCP tools, A2A protocol, XC token economy, skill marketplace. ![ClawHub](https://img.shields.io/badge/ClawHub-v2.53.0-blue)
 
 ---
 
