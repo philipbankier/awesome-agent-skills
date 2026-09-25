@@ -42,6 +42,7 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 ### Domain-Specific
 
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Ready-to-use skills for research, science, engineering, analysis, finance and writing. ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills)
+- [uycung/web-reverse-engineer](https://github.com/uycung/web-reverse-engineer) - Clean-room SKILL.md workflow: study a public site's runtime behavior, motion, and interaction, then rebuild an original implementation. Not a clone tool. ![GitHub stars](https://img.shields.io/github/stars/uycung/web-reverse-engineer)
 
 ### Collections
 
