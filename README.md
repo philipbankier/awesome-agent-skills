@@ -42,6 +42,7 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 ### Domain-Specific
 
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Ready-to-use skills for research, science, engineering, analysis, finance and writing. ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills)
+- [d1v](https://github.com/d1vai/d1v-cli/tree/main/skills/d1v) - Deployment workflow skill for Claude Code and Codex with verified previews and confirmed production releases. ![GitHub stars](https://img.shields.io/github/stars/d1vai/d1v-cli)
 
 ### Collections
 
