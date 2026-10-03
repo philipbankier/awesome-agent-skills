@@ -41,6 +41,7 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 
 ### Domain-Specific
 
+- [alex0xhodler/defi_garden](https://github.com/alex0xhodler/defi_garden) - Machine-native Base and EVM yield discovery, goal planning, and predictive underwriting MCP server with strict 1,000% APY sanity rails. ![GitHub stars](https://img.shields.io/github/stars/alex0xhodler/defi_garden)
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Ready-to-use skills for research, science, engineering, analysis, finance and writing. ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills)
 
 ### Collections
