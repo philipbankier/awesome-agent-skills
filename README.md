@@ -41,6 +41,7 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 
 ### Domain-Specific
 
+- [Arcmira: YouTube Transcript Search](https://github.com/arcmira/arcmira/tree/master/skills) - Official skills for timestamped quotes, mentions and sponsor research. [API docs](https://arcmira.com/docs). ![GitHub stars](https://img.shields.io/github/stars/arcmira/arcmira)
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Ready-to-use skills for research, science, engineering, analysis, finance and writing. ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills)
 
 ### Collections
