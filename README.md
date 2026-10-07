@@ -41,6 +41,7 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 
 ### Domain-Specific
 
+- [GEN](https://gen.pro/skill.md) - GEN is the creative AI video engineer. Research and create ads, cartoons, AI UGC and microdramas over MCP; free video editing and social publishing, AI credits funded by card or x402, OAuth or PAT authentication. ![GitHub stars](https://img.shields.io/github/stars/poweredbyGEN/gen-mcp-server)
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Ready-to-use skills for research, science, engineering, analysis, finance and writing. ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills)
 
 ### Collections
