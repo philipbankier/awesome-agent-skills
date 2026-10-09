@@ -42,6 +42,7 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 ### Domain-Specific
 
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Ready-to-use skills for research, science, engineering, analysis, finance and writing. ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills)
+- [reverse-engineer-anything (REA)](https://github.com/morluto/rea/tree/main/skill-src/reverse-engineer-anything) - Shipped-artifact analysis via REA CLI/MCP; deep native analysis needs your own Hopper, Ghidra, or IDA. ![GitHub stars](https://img.shields.io/github/stars/morluto/rea)
 
 ### Collections
 
