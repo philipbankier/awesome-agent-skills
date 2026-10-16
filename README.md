@@ -42,6 +42,7 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 ### Domain-Specific
 
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Ready-to-use skills for research, science, engineering, analysis, finance and writing. ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills)
+- [wwewtech/anti-slop-design](https://github.com/wwewtech/anti-slop-design) - Autonomous Design Technologist curing AI frontend slop with curated tokens and a 7-axis quality gate. ![GitHub stars](https://img.shields.io/github/stars/wwewtech/anti-slop-design)
 
 ### Collections
 
