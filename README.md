@@ -195,6 +195,7 @@ Web-based platforms for discovering and installing agent skills and tools.
 | [Smithery](https://smithery.ai) | MCP marketplace + CLI | 4,000+ | [Partial](https://github.com/smithery-ai) |
 | [cursor.directory](https://cursor.directory) | Cursor + Windsurf rules | 1,000+ | [Yes](https://github.com/pontusab/cursor.directory) |
 | [Composio](https://composio.dev) | Multi-framework integrations | 1,000+ | [Yes](https://github.com/ComposioHQ/composio) |
+| [Aident Loadout](https://aident.ai) | Agent capability layer: 1,000+ apps + 400+ Skills via one remote MCP | 1,000+ apps | [Partial](https://github.com/Aident-AI/aident-skill) |
 | [MCPServers.org](https://mcpservers.org) | Curated MCP collection | Growing | No |
 | [Gemini Extension Gallery](https://geminicli.com/extensions/) | Gemini CLI extensions | Growing | No |
 | [GitHub Copilot Marketplace](https://github.com/marketplace?type=apps&copilot_app=true) | Copilot extensions | ~30 | No |
