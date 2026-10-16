@@ -42,6 +42,7 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 ### Domain-Specific
 
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Ready-to-use skills for research, science, engineering, analysis, finance and writing. ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills)
+- [nikhonit/llm-mentions-skills](https://github.com/nikhonit/llm-mentions-skills) - AI brand-visibility skills: check whether ChatGPT, Claude, Gemini and Perplexity mention a brand, with rank, sentiment and cited URLs. ![GitHub stars](https://img.shields.io/github/stars/nikhonit/llm-mentions-skills)
 
 ### Collections
 
