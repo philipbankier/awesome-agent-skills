@@ -42,6 +42,7 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 ### Domain-Specific
 
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Ready-to-use skills for research, science, engineering, analysis, finance and writing. ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills)
+- [yumaheymans/carejobs-mcp](https://github.com/yumaheymans/carejobs-mcp) - Free, read-only MCP server and Agent Skill for US healthcare jobs and posted pay. ![GitHub stars](https://img.shields.io/github/stars/yumaheymans/carejobs-mcp)
 
 ### Collections
 
