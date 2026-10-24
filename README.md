@@ -196,6 +196,7 @@ Web-based platforms for discovering and installing agent skills and tools.
 | [cursor.directory](https://cursor.directory) | Cursor + Windsurf rules | 1,000+ | [Yes](https://github.com/pontusab/cursor.directory) |
 | [Composio](https://composio.dev) | Multi-framework integrations | 1,000+ | [Yes](https://github.com/ComposioHQ/composio) |
 | [MCPServers.org](https://mcpservers.org) | Curated MCP collection | Growing | No |
+| [Loadout](https://loadout-blush.vercel.app?utm_source=github&utm_medium=referral&utm_campaign=awesome-agent-skills) | Free + Pro AI coding rule packs (Cursor, Claude Code, Copilot, AGENTS.md) | Growing | No |
 | [Gemini Extension Gallery](https://geminicli.com/extensions/) | Gemini CLI extensions | Growing | No |
 | [GitHub Copilot Marketplace](https://github.com/marketplace?type=apps&copilot_app=true) | Copilot extensions | ~30 | No |
 | [LobeHub MCP](https://lobehub.com/mcp) | LobeChat MCP marketplace | Growing | Partial |
