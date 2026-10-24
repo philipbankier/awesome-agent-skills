@@ -41,6 +41,7 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 
 ### Domain-Specific
 
+- [davidmosiah/delx-plugins](https://github.com/davidmosiah/delx-plugins) - Agent recovery, continuity, and memory across sessions + pay-per-result x402 utilities (Agent Plugins format, MCP-backed). ![GitHub stars](https://img.shields.io/github/stars/davidmosiah/delx-plugins)
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Ready-to-use skills for research, science, engineering, analysis, finance and writing. ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills)
 
 ### Collections
