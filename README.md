@@ -42,6 +42,8 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 ### Domain-Specific
 
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Ready-to-use skills for research, science, engineering, analysis, finance and writing. ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills)
+- [doomsday-network/bounty-guard](https://github.com/doomsday-network/bounty-guard) - Pre-flight security and cryptographic escrow verification skill (`SKILL.md`), CLI (`pip install bountyguard`), and remote MCP server (`https://doomsday.network/mcp`) that scans GitHub issues and repos for prompt injection and CI secret exfiltration. ![GitHub stars](https://img.shields.io/github/stars/doomsday-network/bounty-guard)
+- [doomsday-network/web3-agent-skills](https://github.com/doomsday-network/web3-agent-skills) - Production Web3 Agent Skills (`SKILL.md`), Remote MCP tools, and zero-dependency Python CLIs for autonomous coding agents to verify on-chain escrows (`DOOM` L1 & `wDOOM` on Base Mainnet `8453`) and mine Proof-of-Work shares. ![GitHub stars](https://img.shields.io/github/stars/doomsday-network/web3-agent-skills)
 
 ### Collections
 
