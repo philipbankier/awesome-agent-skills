@@ -41,6 +41,7 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 
 ### Domain-Specific
 
+- [Imagen Search](https://github.com/liu-cn/imagen-search) - Article image search with free watermarked links, numbered Markdown, and optional credit-based originals. ![GitHub stars](https://img.shields.io/github/stars/liu-cn/imagen-search)
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Ready-to-use skills for research, science, engineering, analysis, finance and writing. ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills)
 
 ### Collections
