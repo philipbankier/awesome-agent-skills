@@ -43,6 +43,8 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Ready-to-use skills for research, science, engineering, analysis, finance and writing. ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills)
 
+- [stefanautomateed/shipvela-codex](https://github.com/stefanautomateed/shipvela-codex) - Vendor-maintained static website publishing skill with OAuth, owner approval, deployment status and logs. ![GitHub stars](https://img.shields.io/github/stars/stefanautomateed/shipvela-codex)
+
 ### Collections
 
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - Largest Claude skills list. ![GitHub stars](https://img.shields.io/github/stars/ComposioHQ/awesome-claude-skills)
