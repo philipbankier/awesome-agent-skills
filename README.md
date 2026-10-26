@@ -147,6 +147,7 @@ Tools and integrations for the [LangChain](https://python.langchain.com/) framew
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - Core framework. ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain)
 - [LangChain Integrations](https://python.langchain.com/docs/integrations/tools/) - Official integrations directory (1,000+).
 - [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - Awesome list for LangChain tools and projects. ![GitHub stars](https://img.shields.io/github/stars/kyrolabs/awesome-langchain)
+- [Mode VC Radar MCP](https://modevc.com/api/mcp) - Read-only venture capital & AI market research MCP server (39 empirical AI charts, 3,650 VC firms, SEC Form D filings, and 18 founder financial calculators; free Streamable HTTP at https://modevc.com/api/mcp).
 
 ---
 
