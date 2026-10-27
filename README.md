@@ -42,6 +42,7 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 ### Domain-Specific
 
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Ready-to-use skills for research, science, engineering, analysis, finance and writing. ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills)
+- [umutyesildal/berlin-job-search](https://github.com/umutyesildal/berlin-job-search) - Job search for Berlin and Germany: live jobs, German and Blue Card checks, Lebenslauf/CV and interview prep. ![GitHub stars](https://img.shields.io/github/stars/umutyesildal/berlin-job-search)
 
 ### Collections
 
