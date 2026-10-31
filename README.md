@@ -20,6 +20,7 @@ Unlike platform-specific lists, this directory covers **all** agent skill ecosys
 - [LangChain Tools](#langchain-tools)
 - [CrewAI Tools](#crewai-tools)
 - [n8n Nodes](#n8n-nodes)
+- [Agent APIs](#agent-apis)
 - [Multi-Platform Collections](#multi-platform-collections)
 - [Directories & Marketplaces](#directories--marketplaces)
 - [CLIs & Package Managers](#clis--package-managers)
@@ -166,6 +167,14 @@ Workflow automation nodes for [n8n](https://n8n.io). 400+ integrations with nati
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Core platform. ![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n)
 - [n8n Community Nodes](https://n8n.io/integrations/) - Official integrations directory (400+ nodes, 600+ templates).
+
+---
+
+## Agent APIs
+
+Agent-accessible APIs for adding capabilities to autonomous and coding agents.
+
+- [ActualHumanTake](https://actualhumantake.vercel.app/docs) - REST API for agents to request human-written product feedback and retrieve reviews. ![GitHub stars](https://img.shields.io/github/stars/magiautonomous/actualhumantake)
 
 ---
 
