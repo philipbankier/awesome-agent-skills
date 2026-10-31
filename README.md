@@ -42,6 +42,9 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 ### Domain-Specific
 
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Ready-to-use skills for research, science, engineering, analysis, finance and writing. ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills)
+- [x0c/agent-doc-skills](https://github.com/x0c/agent-doc-skills) - Progressive-disclosure project documentation skills (`doc-init`, `doc-update`, `doc-compact`) for cold-start agent sessions. ![GitHub stars](https://img.shields.io/github/stars/x0c/agent-doc-skills)
+- [x0c/agent-friendly-cli-skill](https://github.com/x0c/agent-friendly-cli-skill) - Engineering skill for designing and auditing non-interactive, JSON-first CLIs with dry-run and optimistic locking. ![GitHub stars](https://img.shields.io/github/stars/x0c/agent-friendly-cli-skill)
+- [x0c/image-skills](https://github.com/x0c/image-skills) - Local image processing, AI background removal, icon resizing, and GIF generation skills for coding agents. ![GitHub stars](https://img.shields.io/github/stars/x0c/image-skills)
 
 ### Collections
 
