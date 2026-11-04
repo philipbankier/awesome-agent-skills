@@ -42,6 +42,7 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 ### Domain-Specific
 
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Ready-to-use skills for research, science, engineering, analysis, finance and writing. ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills)
+- [fabbo-ai/fabbo-ai-generator](https://github.com/fabbo-ai/fabbo-ai-generator) - Generate AI videos and images on [fabbo.ai](https://fabbo.ai) by driving a real Playwright browser session. Text-to-video, image-to-video, text-to-image, reference-to-video, and image editing across Veo, Sora, Kling, Wan, Luma, Runway, Midjourney, Nano Banana. ![GitHub stars](https://img.shields.io/github/stars/fabbo-ai/fabbo-ai-generator)
 
 ### Collections
 
