@@ -199,6 +199,7 @@ Web-based platforms for discovering and installing agent skills and tools.
 | [Gemini Extension Gallery](https://geminicli.com/extensions/) | Gemini CLI extensions | Growing | No |
 | [GitHub Copilot Marketplace](https://github.com/marketplace?type=apps&copilot_app=true) | Copilot extensions | ~30 | No |
 | [LobeHub MCP](https://lobehub.com/mcp) | LobeChat MCP marketplace | Growing | Partial |
+| [thriftyfig](https://thriftyfig.pages.dev/tasks/find-agent-skills/) | Curated agent skills + task pages (Listed, stars, source) | 30 skills | [Yes](https://github.com/thriftyfig/thriftyfig) |
 
 ---
 
