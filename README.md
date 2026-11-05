@@ -41,6 +41,7 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 
 ### Domain-Specific
 
+- [CrakSEO/crakseo-mcp-plugins](https://github.com/CrakSEO/crakseo-mcp-plugins) - Official SEO skills for keyword research, rankings, backlinks, site audits and AI visibility, paired with CrakSEO's MCP servers. ![GitHub stars](https://img.shields.io/github/stars/CrakSEO/crakseo-mcp-plugins)
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Ready-to-use skills for research, science, engineering, analysis, finance and writing. ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills)
 
 ### Collections
