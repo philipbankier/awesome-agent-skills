@@ -43,6 +43,8 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Ready-to-use skills for research, science, engineering, analysis, finance and writing. ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills)
 
+- [faberlang/faberlang.dev](https://github.com/faberlang/faberlang.dev) - Agent Skills for Faber (install, language, packages, corpus): a statically typed language for coding agents and human authors. ![GitHub stars](https://img.shields.io/github/stars/faberlang/faberlang.dev)
+
 ### Collections
 
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - Largest Claude skills list. ![GitHub stars](https://img.shields.io/github/stars/ComposioHQ/awesome-claude-skills)
