@@ -41,8 +41,8 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 
 ### Domain-Specific
 
-- [Qiuner/birdview](https://github.com/Qiuner/birdview) - Map architecture and constraints to source evidence, review planned changes, and record checks. ![GitHub stars](https://img.shields.io/github/stars/Qiuner/birdview)
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Ready-to-use skills for research, science, engineering, analysis, finance and writing. ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills)
+- [Qiuner/birdview](https://github.com/Qiuner/birdview) - Map architecture and constraints to source evidence, review planned changes, and record checks. ![GitHub stars](https://img.shields.io/github/stars/Qiuner/birdview)
 
 ### Collections
 
