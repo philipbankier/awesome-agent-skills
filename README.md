@@ -46,6 +46,7 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 ### Collections
 
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - Largest Claude skills list. ![GitHub stars](https://img.shields.io/github/stars/ComposioHQ/awesome-claude-skills)
+- [GoVisit Toolkit](https://github.com/inhotel-io/govisit-toolkit) - A cross-platform collection of 22 Agent Skills for travel discovery and hospitality data. ![GitHub stars](https://img.shields.io/github/stars/inhotel-io/govisit-toolkit)
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - 900+ installable skills. Cross-platform. `npx antigravity-awesome-skills` to install. ![GitHub stars](https://img.shields.io/github/stars/sickn33/antigravity-awesome-skills)
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - 380+ skills for Claude Code, Codex, Antigravity, Gemini CLI, Cursor. ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-agent-skills)
 - [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - Claude Code workflow-focused skills. ![GitHub stars](https://img.shields.io/github/stars/travisvn/awesome-claude-skills)
