@@ -199,6 +199,7 @@ Web-based platforms for discovering and installing agent skills and tools.
 | [Gemini Extension Gallery](https://geminicli.com/extensions/) | Gemini CLI extensions | Growing | No |
 | [GitHub Copilot Marketplace](https://github.com/marketplace?type=apps&copilot_app=true) | Copilot extensions | ~30 | No |
 | [LobeHub MCP](https://lobehub.com/mcp) | LobeChat MCP marketplace | Growing | Partial |
+| [Agent Flows Hub](https://www.agentflowshub.com/en/collections/skills) | Agent Skills directory with setup requirements and links to official instructions | — | No |
 
 ---
 
