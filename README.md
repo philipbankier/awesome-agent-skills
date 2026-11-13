@@ -42,6 +42,7 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 ### Domain-Specific
 
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Ready-to-use skills for research, science, engineering, analysis, finance and writing. ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills)
+- [Kling AI Plugin Skill (China)](https://www.npmjs.com/package/@klingai/plugin-cn) - Official image/video Skill bundled with the China CLI; OAuth login and account credits required.
 
 ### Collections
 
