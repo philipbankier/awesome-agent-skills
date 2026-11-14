@@ -187,6 +187,7 @@ Web-based platforms for discovering and installing agent skills and tools.
 
 | Platform | Focus | Size | Open Source |
 |----------|-------|------|-------------|
+| [Agent Nexus](https://agentnexus.app) | Live discovery & health observability for APIs & MCPs | 730+ | [Yes](https://github.com/Strategiumfinancepartner/AgentNexus) |
 | [SkillsMP](https://skillsmp.com) | Agent Skills marketplace | 66,500+ | No |
 | [MCP.so](https://mcp.so) | MCP server directory | 17,900+ | [Yes](https://github.com/chatmcp/mcpso) |
 | [Glama](https://glama.ai/mcp/servers) | Hosted MCP servers | 17,800+ | No |
