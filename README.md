@@ -188,6 +188,7 @@ Web-based platforms for discovering and installing agent skills and tools.
 | Platform | Focus | Size | Open Source |
 |----------|-------|------|-------------|
 | [SkillsMP](https://skillsmp.com) | Agent Skills marketplace | 66,500+ | No |
+| [Agent Skills Hub](https://agentskillshub.top) | Searchable skills + MCP directory with security grades | 276,000+ | [Yes](https://github.com/zhuyansen/agent-skills-hub) |
 | [MCP.so](https://mcp.so) | MCP server directory | 17,900+ | [Yes](https://github.com/chatmcp/mcpso) |
 | [Glama](https://glama.ai/mcp/servers) | Hosted MCP servers | 17,800+ | No |
 | [PulseMCP](https://www.pulsemcp.com/servers) | MCP directory (Steering Committee) | 8,600+ | No |
