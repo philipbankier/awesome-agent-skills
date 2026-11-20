@@ -42,6 +42,7 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 ### Domain-Specific
 
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Ready-to-use skills for research, science, engineering, analysis, finance and writing. ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills)
+- [小红书图文与实况图·红鸦 AI](https://github.com/rnthking/redya-skills/tree/main/skill/redya-xiaohongshu) - Create Xiaohongshu posts from topics, products, or reference posts; make Live Photos and review copy. ![GitHub stars](https://img.shields.io/github/stars/rnthking/redya-skills)
 
 ### Collections
 
