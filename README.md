@@ -83,6 +83,7 @@ The [Model Context Protocol](https://modelcontextprotocol.io) (MCP) is an open s
 
 - [esc5221/awesome-awesome-mcp-servers](https://github.com/esc5221/awesome-awesome-mcp-servers) - Meta-list of all awesome-mcp-servers lists.
 - [collabnix/awesome-mcp-lists](https://github.com/collabnix/awesome-mcp-lists) - Combined servers + clients + toolkits.
+- [ezragodev/modevc-radar-mcp](https://github.com/ezragodev/modevc-radar-mcp) - Free remote MCP server (`https://modevc.com/api/mcp`) with startup calculators and public VC/SEC data.
 
 ---
 
