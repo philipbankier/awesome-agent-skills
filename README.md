@@ -94,6 +94,7 @@ Rules that configure AI behavior in [Cursor](https://cursor.com) editor. Two for
 - [cursor.directory](https://cursor.directory) - Community site with 1,000+ rules. 250K+ monthly users. 63K+ members.
 - [pontusab/cursor.directory](https://github.com/pontusab/cursor.directory) - Open source codebase powering cursor.directory. ![GitHub stars](https://img.shields.io/github/stars/pontusab/cursor.directory)
 - [sanjeed5/awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) - New .mdc format rules (replaces deprecated .cursorrules). ![GitHub stars](https://img.shields.io/github/stars/sanjeed5/awesome-cursor-rules-mdc)
+- [zColdWater/vibe-security-checklist](https://github.com/zColdWater/vibe-security-checklist) - MIT `.cursor/rules/security.mdc` security guardrails, 8 production deployment/RLS templates, and a zero-dependency local bundle secret scanner. ![GitHub stars](https://img.shields.io/github/stars/zColdWater/vibe-security-checklist)
 
 ---
 
