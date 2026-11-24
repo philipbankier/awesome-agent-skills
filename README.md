@@ -137,6 +137,7 @@ Skills for the [OpenClaw](https://openclaw.ai) multi-agent system. 5,700+ skills
 - [ClawHub Registry](https://docs.openclaw.ai/tools/skills) - Official OpenClaw skills marketplace with version management.
 - [BankrBot/openclaw-skills](https://github.com/BankrBot/openclaw-skills) - Crypto, DeFi, Polymarket, automation skills. ![GitHub stars](https://img.shields.io/github/stars/BankrBot/openclaw-skills)
 - [openclawskills.net](https://openclawskills.net) - Web directory for OpenClaw skills.
+- [publicrecords-skills](https://github.com/GeminiGeorge22/publicrecords-skills) - Agent Skills + MCP plugin (Claude Code, Codex, Copilot, Cursor, Gemini CLI, Kiro) for 18 public-data Apify Actors: SAM.gov, Grants.gov, USAspending, EU/UK tenders, council meetings, ATS jobs, company socials, Google Ads, Etsy, sports odds, Spotify.
 
 ---
 
