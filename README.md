@@ -41,6 +41,7 @@ The [Agent Skills spec](https://github.com/anthropics/skills) is the emerging cr
 
 ### Domain-Specific
 
+- [BloxStack Onboarding](https://github.com/BloxStack/skills/tree/main/skills/bloxstack-onboarding) - Connects an AI assistant to BloxStack Studio so Roblox teams can review work they’ve added to their workspace. ![GitHub stars](https://img.shields.io/github/stars/BloxStack/skills)
 - [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - Ready-to-use skills for research, science, engineering, analysis, finance and writing. ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills)
 
 ### Collections
