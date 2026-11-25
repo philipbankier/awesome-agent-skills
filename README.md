@@ -193,6 +193,7 @@ Web-based platforms for discovering and installing agent skills and tools.
 | [PulseMCP](https://www.pulsemcp.com/servers) | MCP directory (Steering Committee) | 8,600+ | No |
 | [ClawHub](https://docs.openclaw.ai/tools/skills) | OpenClaw skills registry | 5,700+ | No |
 | [Smithery](https://smithery.ai) | MCP marketplace + CLI | 4,000+ | [Partial](https://github.com/smithery-ai) |
+| [SkillTrove](https://skilltrove.dev) | Agent Skills directory | 1,488 | No |
 | [cursor.directory](https://cursor.directory) | Cursor + Windsurf rules | 1,000+ | [Yes](https://github.com/pontusab/cursor.directory) |
 | [Composio](https://composio.dev) | Multi-framework integrations | 1,000+ | [Yes](https://github.com/ComposioHQ/composio) |
 | [MCPServers.org](https://mcpservers.org) | Curated MCP collection | Growing | No |
